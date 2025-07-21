@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LMS.iml" filepath="$PROJECT_DIR$/LMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lms-frontend/lms-frontend.iml" filepath="$PROJECT_DIR$/lms-frontend/lms-frontend.iml" />
     </modules>
   </component>
 </project>
